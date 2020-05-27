@@ -1,0 +1,1 @@
+<h1>Error en la interacción</h1>
